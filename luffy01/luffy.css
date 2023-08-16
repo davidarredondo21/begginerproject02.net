@@ -1,0 +1,152 @@
+
+
+
+.container0-button , .container0-button__img
+{
+width: 50px;
+background: none;
+border: none;
+left: 100%;
+float: inline-start;
+}
+
+
+
+.font{
+    width: 100px;
+}
+
+.row{
+    display: flex;
+    margin: 0 auto;
+    padding: 20px;
+    flex-flow: row wrap;
+    border: 1px solid;
+    width: 80%;
+    height: 80%;
+    border: hidden;
+    background: #ccc;
+    
+}
+
+
+.container2-button {
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    margin: 10px;
+    transition: 0.5s;
+    object-fit: contain;
+    border: none;
+    background: none;
+    padding: 5px;
+    display: inline;
+    
+}
+
+ .container2-button__img-1{
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    margin: 10px;
+    transition: 0.5s;
+    object-fit: contain;
+    border: none;
+    background: none;
+    padding: 5px;
+    display: inline;
+
+
+}
+
+ .container2-button__img-2{
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    margin: 10px;
+    transition: 0.5s;
+    object-fit: contain;
+    border: none;
+    background: none;
+    padding: 5px;
+    display: inline;
+    left: 15%;
+    
+}
+   
+.container2-button__img-3{
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    margin: 10px;
+    transition: 0.5s;
+    object-fit: contain;
+    border: none;
+    background: none;
+    padding: 5px;
+    display: inline;
+    left: 15%;
+    
+}
+
+ .container2-button__img-4{
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    margin: 10px;
+    transition: 0.5s;
+    object-fit: contain;
+    border: none;
+    background: none;
+    padding: 5px;
+    display: inline;
+    left: 15%;
+    
+}
+
+ .container2-button__img-5{
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    margin: 10px;
+    transition: 0.5s;
+    object-fit: contain;
+    border: none;
+    background: none;
+    padding: 5px;
+    display: inline;
+    left: 15%;
+    
+}
+
+ .container2-button__img-6{
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    margin: 10px;
+    transition: 0.5s;
+    object-fit: contain;
+    border: none;
+    background: none;
+    padding: 5px;
+    display: inline;
+    left: 15%;
+    
+}
+
+.container2-button__img-1{
+    float: left;
+
+}
+
+ 
+
+
+
+.container2 img:hover{
+transform: scale(1.2);
+
+}
+
+
+
